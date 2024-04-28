@@ -24,12 +24,18 @@ A step by step series of examples that tell you how to get a development environ
 ### How to use
 
 Open your browser at http://0.0.0.0:8000/docs.
+
 You will see the automatic interactive API documentation (provided by Swagger UI):
 
 First you will need to populate the database, so start by creating, users, flights and airports. 
+
 After, to start using you will need to login, the login post, will ask for the email and password, and will check the database, for matches.
+
 If it finds a match pair, it will return the session key, that will be needed at the purchase step.
-After that to test the purchase, you will need the flight_name, that you will find at the search box, get_all_flights or else.
+
+After that to test the purchase, you will need the flight_name, that you will find at the request, read_flights, list_of_flights_by_day or flight_by_number_of_passengers.
+
+
 After the purcharse you will get a reservation token, that you will need to edit the e-tickets, to put the passengers names.
 
 ## Built With
