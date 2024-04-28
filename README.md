@@ -32,7 +32,7 @@ A step by step series of examples that tell you how to get a development environ
 
 ## Authors
 
-- **Victor Teixeira** - *Built the docker images and the database design*
-- **Vitor Lima** - *Kubernetes Orchestration and RabbitMq Messenger System* 
+- **Victor Teixeira** - *Built the docker images and the database design* - [VictorTeixeiraS](https://github.com/VictorTeixeiraS)
+- **Vitor Lima** - *Kubernetes Orchestration and RabbitMq Messenger System* - [Vitor Lima](https://github.com/HeiwaRyuu)
 - **Guilherme Afonso** - *Created the Routes* - [Guilherme Afonso](https://github.com/guilhermeaam)
-- **Gabriel Resende** - *Created the Routes* 
+- **Gabriel Resende** - *Created the Routes* - [Gabriel Resende](https://github.com/GabrielRSoares)
