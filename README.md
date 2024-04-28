@@ -33,7 +33,7 @@ After, to start using you will need to login, the login post, will ask for the e
 
 If it finds a match pair, it will return the session key, that will be needed at the purchase step.
 
-After that to test the purchase, you will need the flight_name, that you will find at the request, read_flights, list_of_flights_by_day or flight_by_number_of_passengers.
+After that to test the purchase, you will need the flight_name, that you will find at the request: read_flights, list_of_flights_by_day or flight_by_number_of_passengers.
 
 
 After the purcharse you will get a reservation token, that you will need to edit the e-tickets, to put the passengers names.
